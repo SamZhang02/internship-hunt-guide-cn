@@ -1,6 +1,7 @@
 site_name: 北美互联网实习攻略
 
-site_url: https://mydomain.org
+site_url: https://samzhang02.github.io/internship-hunt-guide-cn/preface/
+use_directory_urls: false
 
 #Theme
 theme:
