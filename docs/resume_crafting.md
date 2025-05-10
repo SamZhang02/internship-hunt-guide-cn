@@ -10,6 +10,7 @@
 **HR初筛 → 工程师技术评估 + 可能面试 → 招聘经理最终决策 + 可能面试**
 
 因此，一份好的简历需要同时满足以下要求：
+
 - **对HR友好**：关键词突出，格式清晰，快速识别你符合职位要求。    
 - **对工程师友好**：技术细节准确，体现解决实际问题的能力。
 - **对招聘经理友好**：展示业务影响、项目成果，体现领导力或成长潜力。
@@ -18,7 +19,9 @@
 
 先附上我的个人简历：
 
-![[sam_zhang_resume.pdf]]
+<p align="center">
+	<img src="assets/sam_zhang_resume.png" width="500px">
+</p>
 
 ## 简历模版与结构
 
@@ -38,6 +41,7 @@
 #### 个人项目
 如果工作经验不足可以多放一些个人项目，展示自己的技术。
 如果有成熟的个人项目也建议放入简历，这里成熟可以指几个不同的方面
+
 - 解决了实际问题并且有真实用户：部署了的网站，download多的软件，GitHub stars多的技术型repo都算
 - 技术复杂，有实际学习成果的项目：手搓编译器，K8s之类的比较高难度项目也可以
 
@@ -55,6 +59,7 @@
 > 我是XX学校XX专业的学生，我预计20XX年毕业。我的个人经历和项目与此岗位相关，所以我可以胜任这份工作。
 
 高竞争的实习岗位可能一个岗位就会收到上万份简历，也有研究表明过[一位HR看一份简历的时间平均不超过10秒](https://www.indeed.com/career-advice/resumes-cover-letters/how-long-do-employers-look-at-resumes)。你的简历应该遵循以下几个点
+
 - 长度保持一页A4/Letter纸：HR没有那么多时间仔细阅读每一页
 - 教育经历放在简历第一位：HR可以马上看到你是学生，并且看到你的毕业日期。有些岗位会卡毕业日期。
 - 适当加粗工作/项目描述里的重要点：可以快速让HR看到你的技术栈和工作成果，以防亮点被忽略。
@@ -74,6 +79,7 @@
 > Worked on a backend endpoint to help with restarting models.
 
 这个描述的问题在于：
+
 - **不具体**：没说清楚是API具体是干啥的。
 - **没有说明解决了什么问题**。
 - **缺乏结果**：对业务或用户的影响完全没有体现。
@@ -87,6 +93,7 @@
 > Implemented an API endpoint to perform a batch rolling restart on model deployments based on a set of filters, streamlining ML developers workflow by reducing manual intervention.
 
  一句话清楚的表达了
+
 - **问题**: 重启流程繁琐
 - **产出**: 开发一个支持过滤器的批量 rolling restart 接口
 - **结果**: 减少手动操作，提升算法工程师效率

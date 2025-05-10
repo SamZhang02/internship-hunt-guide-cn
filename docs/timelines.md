@@ -4,7 +4,9 @@
 
 需要注意的是，部分大公司（如 Amazon、Meta 等）可能提前数月启动夏季实习的招聘，尤其在美国市场。以下提供加拿大和美国地区的参考时间线。
 
-![[timeline.png]]
+<p align="center">
+	<img src="assets/timeline.png">
+</p>
 ### 美国
 **Fall Term 实习（较少公司提供，通常为co-op）**
 
