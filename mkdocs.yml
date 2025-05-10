@@ -1,0 +1,70 @@
+site_name: 北美互联网实习攻略
+
+site_url: https://mydomain.org
+
+#Theme
+theme:
+  name: material
+  language: zh
+  features:
+    # - announce.dismiss
+    - content.action.edit
+    # - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    # - navigation.sections
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  palette:
+    - scheme: default
+      primary: white
+      accent: teal
+      toggle:
+        icon: material/theme-light-dark
+        name: 深色模式
+    - scheme: slate
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/theme-light-dark
+        name: 浅色模式
+  font:
+    text: Noto Sans SC
+    code: Fira Code
+  favicon: assets/images/favicon.png
+  logo: assets/images/logo.svg
+  icon:
+    logo: logo
+    repo: fontawesome/brands/github
+    edit: fontawesome/regular/pen-to-square
+
+
+# page tree
+nav: 
+  - 前言: preface.md
+  - 入门基础 - 北美互联网实习市场概览与特点: intro_to_na_tech.md
+  - 简历打造 - 技术简历撰写技巧、优化指南与模板: resume_crafting.md
+  - 申请时间线 - 不同季节实习的准备与申请时间规划: timelines.md
+  - 岗位搜索 - 寻找实习机会的渠道与策略: job_search.md
+  - 网申技巧 - 线上申请系统使用指南与注意事项: applications.md
+  - 面试准备 - 技术面试与行为面试的准备方法: interviews.md
+  - 编程能力提升 - 算法、数据结构、系统设计学习资源: programming.md
+  - Offer选择与谈判 - 多个offer的比较与薪资谈判技巧: offers.md
+  - 实习体验分享 - 不同公司、不同岗位的实习经验分享: internship_experience.md
+  - 实用工具与资源 - 求职网站、刷题平台、社区论坛推荐: tools.md
+  - 常见问题解答 - 实习申请过程中的疑难问题解析: qna.md
