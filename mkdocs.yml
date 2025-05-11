@@ -24,13 +24,13 @@ theme:
   palette:
     - scheme: default
       primary: white
-      accent: teal
+      #accent: teal
       toggle:
         icon: material/theme-light-dark
         name: 深色模式
     - scheme: slate
       primary: black
-      accent: teal
+      #accent: teal
       toggle:
         icon: material/theme-light-dark
         name: 浅色模式
@@ -58,3 +58,8 @@ nav:
   - Offer选择与谈判 - 多个offer的比较与薪资谈判技巧: offers.md
   - 实用工具与资源 - 求职网站、刷题平台、社区论坛推荐: tools.md
   - 求职心态 - 运气、挫折与接纳结果: mindset.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
