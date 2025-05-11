@@ -9,7 +9,7 @@ Workday 是目前最让人头疼的申请系统。
 **建议**：
 
 - 使用 Password Manager（如 1Password、Bitwarden）自动生成密码，每次遇到新公司用 Workday 创建账号时就可以快速填入密码。
-- 搭配自动填表工具（下一节会讲）快速填入工作经历，减少复制粘贴时间。
+- 搭配下面讲的自动填表工具，快速填入工作经历，减少复制粘贴时间。
 
 ### Greenhouse
 Greenhouse 相对来说是实习申请里体验最好的系统之一。
@@ -27,6 +27,11 @@ Greenhouse 相对来说是实习申请里体验最好的系统之一。
 
 - 尽量先把自己的经历整理成模板再喂给 Simplify。
 - **提交前一定要手动 double-check 一遍**，自动填表工具偶尔会出现格式错乱或乱码。
+
+
+<p align="center">
+	<img src="assets/simplify_extension.png" width="500px">
+</p>
 
 ## 提交申请前检查清单
 
