@@ -26,7 +26,7 @@
 English: please refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 致谢
-本项目受到了【krahets/hello-algo](https://github.com/krahets/hello-algo/) 的极大启发：
+本项目受到了[krahets/hello-algo](https://github.com/krahets/hello-algo/) 的极大启发：
 
 - 内容编写理念：学习了该项目创建高质量中文技术教程的经验，特别是面向中文读者群体的内容组织和表达方式。
 - 技术架构：本指南采用了与 hello-algo 相同的 MkDocs 框架结构，该框架能够高效地构建清晰易读的技术文档。
