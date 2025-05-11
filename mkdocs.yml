@@ -56,8 +56,9 @@ nav:
   - 面试准备 - 技术面试与行为面试的准备方法: interviews.md
   - 编程能力提升 - 算法、数据结构、系统设计学习资源: programming.md
   - Offer选择与谈判 - 多个offer的比较与薪资谈判技巧: offers.md
-  - 实用工具与资源 - 求职网站、刷题平台、社区论坛推荐: tools.md
+  - 实用工具与资源 - 社区论坛推荐: tools.md
   - 求职心态 - 运气、挫折与接纳结果: mindset.md
+  - 后记: epilogue.md
 
 markdown_extensions:
   - admonition
