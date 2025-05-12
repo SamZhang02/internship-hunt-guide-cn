@@ -17,10 +17,10 @@
 
 当然，作为一个大学生，其实很难体现出什么特别牛的技术或者业务影响。下面几个section会教你如何以一个学生的角色写出一份好的简历。
 
-先附上我的个人简历：
+先附上一个我认为写的很好的简历：
 
 <p align="center">
-	<img src="assets/sam_zhang_resume.png" width="500px">
+	<img src="assets/good_resume.png" width="500px">
 </p>
 
 ## 简历模版与结构
@@ -74,7 +74,7 @@
 ###  问题 - 产出 - 结果
 一句好的 bullet point 应该包含三个核心要素：**问题 – 产出 – 结果**。
 
-以我在 Coveo 开发的一个接口为例：
+以我在某后端开发实习写的一个接口为例：
 
 > Worked on a backend endpoint to help with restarting models.
 
