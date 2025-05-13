@@ -5,7 +5,7 @@
 ## 开始之前
 
 1. Fork 本仓库
-2. 按照 `mkdocs.yaml` 中的规定安装依赖项
+2. 按照 `mkdocs.yaml` 中的规定安装依赖项，eg.可以参考: `pip install markdown pymdown-extensions mkdocs mkdocs-material`
 3. 创建新分支：`git checkout -b feature/您的功能名称` 或 `fix/问题描述`
 
 ## 贡献类型

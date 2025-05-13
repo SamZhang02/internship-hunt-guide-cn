@@ -45,10 +45,8 @@ theme:
     repo: fontawesome/brands/github
     edit: fontawesome/regular/pen-to-square
 
-
-
 # page tree
-nav: 
+nav:
   - 前言: preface.md
   - 入门基础 - 北美互联网实习市场概览与特点: intro_to_na_tech.md
   - 简历打造 - 技术简历撰写技巧、优化指南与模板: resume_crafting.md
