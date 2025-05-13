@@ -7,7 +7,9 @@
 <p align="center">
 	<img src="assets/timeline.png">
 </p>
+
 ### 美国
+
 **Fall Term 实习（较少公司提供，通常为co-op）**
 
 1. 岗位开放时间：4月至5月左右
@@ -27,6 +29,10 @@
 3. 岗位开始时间：次年5月至6月之间
 
 ### 加拿大
+
+<!-- prettier-ignore -->
+!!! Warning
+	在加拿大驻办公室的美国公司(e.g. Amazon Vancouver, Microsoft Vancouver) 遵循美国 timeline 。这里加拿大主要指 HQ 或者大部分员工 base 加拿大的公司 (e.g. Shopify, 1Password)
 
 **Fall Term 实习**
 
