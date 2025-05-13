@@ -5,7 +5,12 @@ Thank you for your interest in contributing to this project! This guide outlines
 ## Getting Started
 
 1. Fork the repository
-2. Install dependencies as specified in `mkdocs.yaml`
+2. Install dependencies as specified in `requirements.txt`
+
+```shell
+pip install -r requirements.txt
+```
+
 3. Create a new branch: `git checkout -b feature/your-feature-name` or `fix/issue-description`
 
 ## Types of Contributions
