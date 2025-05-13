@@ -34,11 +34,9 @@ English: please refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 
 感谢本开源书的每一位撰稿人，是他们的无私奉献让这本书变得更好，他们是：
 
-<p align="left">
-    <a href="https://github.com/samzhang02/internship-hunt-guide-cn/graphs/contributors">
-        <img width="770" src="https://contrib.rocks/image?repo=samzhang02/internship-hunt-guide-cn&max=300&columns=16" />
-    </a>
-</p>
+<a href="https://github.com/SamZhang02/internship-hunt-guide-cn/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SamZhang02/internship-hunt-guide-cn" />
+</a>
 
 ## License
 
