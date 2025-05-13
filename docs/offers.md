@@ -5,6 +5,7 @@
 ## 关键评估因素
 
 以下是评估offer时的重要标准，建议你在面试过程中或收到offer后尽快向HR询问这些问题，以便做出明智的决定`
+
 ### 1. 薪资与待遇
 
 虽然不是唯一考量，但要合理评估：
@@ -13,7 +14,8 @@
 - 福利待遇（餐补、交通等）
 - 同公司正式员工的薪资水平参考
 
-!!!tip 
+<!-- prettier-ignore -->
+!!!tip
 	实习薪资一般固定的，除非你有其他offer可以用来谈判。如果有其他offer，可以礼貌地询问HR是否能够match对方的薪资。
 
 ### 2. 团队和技术栈
@@ -94,14 +96,14 @@
 例如：
 
 > Hi [Hiring Manager or HR's Name],
-> 
+>
 > Thank you so much for offering me the [Position Title] internship position at [Company Name]. I'm truly grateful for the time you and the team invested in getting to know me during the interview process.
-> 
+>
 > After a lot of thought, I've decided to accept another opportunity that feels like the right fit for where I am in my career journey right now. This decision wasn't easy, I was really excited about the chance to work on [specific project/technology mentioned] and learn from the talented team at [Company Name].
-> 
+>
 > I have a lot of respect for what [Company Name] is doing in [industry/field], and I hope there might be an opportunity for us to work together down the road.
-> 
+>
 > Thank you again for believing in me and for this wonderful opportunity. I wish you and the entire team continued success.
-> 
+>
 > Warm regards,  
 > [Your Name]
