@@ -59,6 +59,7 @@ nav:
   - 实用工具与资源 - 社区论坛推荐: tools.md
   - 求职心态 - 运气、挫折与接纳结果: mindset.md
   - 后记: epilogue.md
+  - 番外篇：发挥实习的最大价值: internship_best_practices.md
 
 markdown_extensions:
   - admonition
