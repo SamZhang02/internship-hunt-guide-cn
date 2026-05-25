@@ -33,6 +33,7 @@ GitHub上有些库也会时不时更新新开发的岗位，一般是基于爬�
 
 - [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)
 - [speedyapply/2025-SWE-College-Jobs](https://github.com/speedyapply/2025-SWE-College-Jobs)
+- [Hanzilla Jobs](https://jobs.hanzilla.co/internships/)：面向加拿大大学生和应届毕业生的免费岗位板，每日更新 internship、co-op、new grad、junior 和 entry-level 岗位，覆盖科技、金融、工程、商科、理科等方向。
 
 <p align="center">
 	<img src="assets/simplify_repo.png" >
